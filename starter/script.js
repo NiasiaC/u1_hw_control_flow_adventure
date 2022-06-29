@@ -54,5 +54,11 @@ if (chosenLocation === "Africa") {
   }
 }
 
+if (Africa){
+  let nextMove = prompt('As the jeep approaches the lions, we notice it lunch time. Do we feed the lions with meat stored on board or do we let them enjoy in peace? Your next choice could be our doom!"){
+
+  }
+}
+
 startGame();
 let gameRestart = prompt("Would you like to restart game?");
